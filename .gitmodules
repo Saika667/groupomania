@@ -1,0 +1,8 @@
+[submodule "groupomania-backend"]
+	path = groupomania-backend
+	url = https://github.com/Saika667/groupomania-backend.git
+	branch = main
+[submodule "groupomania-frontend"]
+	path = groupomania-frontend
+	url = https://github.com/Saika667/groupomania-frontend.git
+	branch = main
